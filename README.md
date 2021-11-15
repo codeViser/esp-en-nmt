@@ -1,4 +1,4 @@
-# Assignment 4 (NMT)
+# Neural Machine Translation
 Note: Heavily inspired by the https://github.com/pcyin/pytorch_nmt repository
 
 Create virtual environment
